@@ -1,11 +1,11 @@
 /* ===== EDITÁ ACÁ: configuración y productos =====
    ⚠️ Los productos de abajo son DE DEMOSTRACIÓN (nombres, precios y stock ficticios). */
 const CONFIG = {
-  whatsapp: "5491100000000",      // ← tu número: código de país + área + número, sin + ni espacios
-  instagram: "lapausa.ba",
-  preparacion: "Se preparan a pedido: 5 a 7 días hábiles (ficticio, ajustalo).",
-  retiro: "Retiro coordinado por WhatsApp (zona y horarios: completar).",
-  pagos: "Transferencia o efectivo al retirar. Se confirma por WhatsApp (completar con tus medios reales)."
+  whatsapp: "5491164957343",      // ← tu número: código de país + área + número, sin + ni espacios
+  instagram: "@lapausa.ba",
+  preparacion: "Se preparan a pedido: 5 a 7 días hábiles.",
+  retiro: "Retiro coordinado por WhatsApp.",
+  pagos: "Transferencia o efectivo al retirar. Se confirma por WhatsApp."
 };
 // Colores: clave → nombre y hex (se usan como muestra y como ilustración si no hay foto)
 const COLORES = {
