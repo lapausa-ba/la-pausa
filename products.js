@@ -2,7 +2,7 @@
    ⚠️ Los productos de abajo son DE DEMOSTRACIÓN (nombres, precios y stock ficticios). */
 const CONFIG = {
   whatsapp: "5491164957343",      // ← tu número: código de país + área + número, sin + ni espacios
-  instagram: "@lapausa.ba",
+  instagram: "lapausa.ba",
   preparacion: "Se preparan a pedido: 5 a 7 días hábiles.",
   retiro: "Retiro coordinado por WhatsApp.",
   pagos: "Transferencia o efectivo al retirar. Se confirma por WhatsApp."
