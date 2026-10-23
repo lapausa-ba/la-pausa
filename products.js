@@ -18,7 +18,7 @@ const COLORES = {
 const PRODUCTOS = [
  { id:"pausa", nombre:"Remera Pausa", tipo:"Estampa sutil", precio:24000, destacado:true, disponible:true,
    descripcion:"Algodón peinado de caída suave, corte unisex relajado. Isotipo pequeño estampado en DTF sobre el pecho.",
-   colores:["crudo","negro","arena"], talles:["S","M","L","XL"], disenos:["Isotipo pecho","Sin estampa"], fotos:{},
+   colores:["crudo","negro","arena"], talles:["S","M","L","XL"], disenos:["Isotipo pecho","Sin estampa"], fotos:{Turbos e Inyectores 93},
    stock:{ crudo:{S:4,M:6,L:3,XL:0}, negro:{S:2,M:5,L:5,XL:2}, arena:{S:0,M:3,L:2,XL:1} } },
  { id:"silencio", nombre:"Remera Silencio", tipo:"Gráfica", precio:26500, destacado:true, disponible:true,
    descripcion:"Estampa gráfica discreta en la espalda alta. Algodón de gramaje medio, cuello reforzado.",
